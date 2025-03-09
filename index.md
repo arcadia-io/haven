@@ -10,6 +10,10 @@ Haven refines your browsing experience by hiding unwanted content, making the in
 
 - Automatically hide words, phrases, and related terms that are triggering, negative, harmful, distracting, or unwanted.
 
+### International Language Support
+
+- Support non-space-separated languages, such as Chinese, Japanese, and Korean.
+  
 ### Sync Across Devices
 
 - Your preferences stay with you, seamlessly synced across devices.
