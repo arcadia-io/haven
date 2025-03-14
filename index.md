@@ -1,38 +1,47 @@
 # Haven
 
-Haven refines your browsing experience by hiding unwanted content, making the internet more comfortable and safer.
+Haven helps hide and filter unwanted content, creating a safer, distraction-free, and more comfortable internet.
 
-![Screenshot](/assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot.png)
 
 ## Features
 
 ### Smart Content Filtering
 
-- Automatically hide words, phrases, and related terms that are triggering, negative, harmful, distracting, or unwanted.
+- Automatically hides harmful, distracting, negative, triggering, or unwanted words, phrases, and related terms, providing a peaceful browsing experience.
 
 ### International Language Support
 
-- Support non-space-separated languages, such as Chinese, Japanese, and Korean.
-  
+- Supports non-space-separated languages like Chinese, Japanese, and Korean, ensuring global accessibility.
+
 ### Sync Across Devices
 
-- Your preferences stay with you, seamlessly synced across devices.
+- Preferences sync seamlessly across devices for a consistent experience.
 
 ### Privacy by design
 
-- No personal data is collected.
+- No personal data is collected, ensuring your browsing remains private and secure.
+
+
+
+
+
 
 ## Who Is Haven For?
 
-Haven is designed for anyone who wants more control over browsing experience. It may be helpful for:
+Haven is designed for anyone looking to improve their browsing experience.
 
-- Those looking to avoid specific content, including sensitive or distressing topics.
+### Mental health support: 
+Individuals recovering from Post-traumatic stress disorder (PTSD), trauma-related conditions, phobias, addiction, or other mental health issues, who need a space free from trigger terms and content.
 
-- Individuals recovering from PTSD, trauma-related conditions, phobias, addictions, or other mental health issues.
+### Wellness-Focused and mindful browsing:
+People seeking a more positive online experience, free from harmful, negative, triggering, sensitive or distressing content such as news, politics, violence, and misinformation/disinformation from social media platforms/forums<sup>*</sup> and news sites.
 
-- People aiming to minimize distractions and stay focused.
+###### Support Twitter, X, Facebook, Instagram, Threads, Reddit, LinkedIn, Snapchat, TikTok, Pinterest, YouTube, Discord, Tumblr, Clubhouse, etc.
 
-- Parents creating a safer browsing space for their children.
+### Distraction Control: 
+People who wish to hide distracting items, minimize distractions, and enhance productivity by blocking harmful or distracting content.
+
 
 
 ## Get started
@@ -44,7 +53,7 @@ Haven is designed for anyone who wants more control over browsing experience. It
 3. Enable **Developer mode** in the upper-right corner.
 4. Click **Load unpacked** and select the extracted folder.
 
-For a step-by-step guide with images, see the [official Chrome extension installation guide](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
+For a step-by-step guide with images, see the [official Chrome extension installation guide](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
 
 ### Usage
 
@@ -60,3 +69,8 @@ Click the Haven icon in the Chrome toolbar.
 
 #### Remove the **last** keywords and phrases
 1. Click **Undo**.
+
+
+## Keywords: 
+
+Content Blocker, Content Filter, Custom Filter, Custom Filtering, Personalized Browsing Control
