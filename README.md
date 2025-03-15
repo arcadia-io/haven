@@ -73,4 +73,4 @@ Click the Haven icon in the Chrome toolbar.
 
 ## Keywords: 
 
-Content Blocker, Content Filter, Custom Filter, Custom Filtering, Personalized Browsing Control
+Content Blocker, Content Filter, Custom Filter, Custom Filtering, Personalized Browsing Control, Internet Filter, Internet Filtering, Internet Blocker, Internet Safety
