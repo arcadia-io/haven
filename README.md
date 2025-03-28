@@ -32,7 +32,7 @@ Haven helps hide and filter unwanted content, creating a safer, distraction-free
 Haven is designed for anyone looking to improve their browsing experience.
 
 ### Mental health support: 
-Individuals recovering from Post-traumatic stress disorder (PTSD), trauma-related conditions, phobias, addiction, anxiety, or other mental health issues, who need a space free from trigger terms and content.
+Individuals recovering from Post-traumatic stress disorder (PTSD), trauma-related conditions, phobias, panic attacks, addiction, anxiety, or other mental health issues, who need a space free from trigger terms and content.
 
 ### Wellness-Focused and mindful browsing:
 People seeking a more positive online experience, free from harmful, negative, triggering, sensitive or distressing content such as news, politics, violence, and misinformation/disinformation from social media platforms/forums<sup>*</sup> and news sites.
