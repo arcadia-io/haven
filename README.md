@@ -4,72 +4,72 @@ Haven helps hide and filter unwanted content, creating a safer, distraction-free
 
 ![Screenshot](assets/images/screenshot.png)
 
-## Features
+## Who uses Haven
 
-### Smart Content Filtering
+• Mental health support:
+Individuals managing PTSD (Post-traumatic stress disorder), CPTSD, trauma, anxiety, stress, depression, panic, phobia, addiction, OCD, and related conditions.
 
-- Automatically hides harmful, distracting, negative, triggering, or unwanted words, phrases, and related terms, providing a peaceful browsing experience.
+• Mindful browsing:
+People seeking a positive online experience without harmful news, politics, violence, or misinformation on social media<sup>*</sup> and news sites.
 
-### International Language Support
-
-- Supports non-space-separated languages like Chinese, Japanese, and Korean, ensuring global accessibility.
-
-### Sync Across Devices
-
-- Preferences sync seamlessly across devices for a consistent experience.
-
-### Privacy by design
-
-- No personal data is collected, ensuring your browsing remains private and secure.
-
-
-
-
-
-
-## Who Is Haven For?
-
-Haven is designed for anyone looking to improve their browsing experience.
-
-### Mental health support: 
-Individuals recovering from Post-traumatic stress disorder (PTSD), trauma-related conditions, phobias, panic attacks, addiction, anxiety, or other mental health issues, who need a space free from trigger terms and content.
-
-### Wellness-Focused and mindful browsing:
-People seeking a more positive online experience, free from harmful, negative, triggering, sensitive or distressing content such as news, politics, violence, and misinformation/disinformation from social media platforms/forums<sup>*</sup> and news sites.
+• Distraction Control:
+Users minimizing distractions and enhancing productivity by blocking triggering, harmful, upsetting, emotional, or distracting content.
 
 ###### * Support Twitter, X, Facebook, Instagram, Threads, Reddit, LinkedIn, Snapchat, TikTok, Pinterest, YouTube, Discord, Tumblr, Clubhouse, etc.
 
-### Distraction Control: 
-People who wish to hide distracting items, minimize distractions, and enhance productivity by blocking harmful or distracting content.
+## Why Haven stands out
 
+Haven does more than block content.
 
+• Trigger-safe design:
+Added triggers hide completely, even in interface.
 
-## Get started
+• Privacy is built in:
+No personal data collected to keep browsing private and secure.
 
-### Installation
+• Lightweight:
+Feels instant. No slowdown.
 
-1. Download the latest [release](https://github.com/arcadia-io/haven/releases/latest) and unzip the file.
-2. Open `chrome://extensions/` page (or go to Chrome > `More Tools` > `Extensions`).
-3. Enable **Developer mode** in the upper-right corner.
-4. Click **Load unpacked** and select the extracted folder.
+## Beyond trigger warnings
 
-For a step-by-step guide with images, see the [official Chrome extension installation guide](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
+Trigger warnings may cause repeated exposure and raise anxiety by highlighting triggers.
+Haven silently removes trigger words and distressing content without alerts, reducing stress and creating a calm browsing experience for sensitive users.
 
-### Usage
+## Features
 
-Click the Haven icon in the Chrome toolbar.
+• Intelligent content filtering:
+Filters disturbing terms and suggest related triggers to enhance peaceful browsing.
 
-#### Hide keywords and phrases
-1. Enter the word or phrase.
-2. Press **Enter**.
+• Unlimited trigger words:
+Add as many triggers as needed.
 
-#### Remove keywords and phrases from the blocklist
-1. Enter the word or phrase.
-2. Click **Undo**.
+• Global language support:
+Supports all languages, including those written without spaces between words (e.g., Chinese, Japanese, Korean).
 
-#### Remove the **last** keywords and phrases
-1. Click **Undo**.
+## How it works
 
+• Blur and hide triggering words/phrases and collapse paragraphs containing them
+• Click arrow icon to expand collapsed content.
+• Add triggers anytime from popup menu.
+
+## Getting Started
+
+• [Install](https://chromewebstore.google.com/detail/lomomjbaigpnimpfhillaoapccdhfdof?utm_source=item-share-cb) and use immediately. No sign-up required. 
+
+• Add a trigger: 
+Right-click the selected word or phrase to hide it, or type it in pop-up and press Enter.
+
+• Remove a trigger: 
+Click 'Undo' in the pop-up to revert your last action. Or enter a trigger and click 'Undo' to remove it.
+
+• (Optional) Import triggers: 
+Click ''Settings", import from a file. 
+
+## Send Feedback or Report Issues
+
+Your feedback helps us improve Haven. 
+
+https://forms.gle/M9RTZsrM5UccmDWx7
 
 ## Keywords: 
 
