@@ -7,7 +7,7 @@ date: 2025-09-23 10:35:00 -0000
 
 # How to Remove Triggering Content Online for Safer Browsing
 
-![Haven Screenshot](/assets/images/Haven-navi-on-unsplash.jpeg)
+![Haven Screenshot]({{ site.baseurl }}/assets/images/Haven-navi-on-unsplash.jpeg)
 
 The internet can be a place of healing, but for people with mental health issues, it can also trigger painful memories and intensify suffering. Every day, countless people are exposed to distressing content that can worsen their mental health. By removing trauma-related material, we can create a safe and comfortable Internet.
 
@@ -49,7 +49,7 @@ People who wish to hide distracting items, minimize distractions, and enhance pr
 - [Install](https://chromewebstore.google.com/detail/lomomjbaigpnimpfhillaoapccdhfdof?utm_source=github&utm_medium=referral
 ) and use immediately. No sign-up required.
 - Add a trigger: Right-click the selected word or phrase to hide it, or type it in the pop-up and press Enter.
-![Haven Screenshot](assets/images/Screen-Shot-01.png)
+![Haven Screenshot]({{ site.baseurl }}/assets/images/Screen-Shot-01.png)
 
 - Remove a trigger: Click ‘Undo’ in the pop-up to revert your last action. Or enter a trigger and click ‘Undo’ to remove it.
 - (Optional) Import triggers: Click ‘‘Settings”, import from a file.
