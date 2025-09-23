@@ -49,7 +49,9 @@ Supports all languages, including those written without spaces between words (e.
 ## How it works
 
 • Blur and hide triggering words/phrases and collapse paragraphs containing them
+
 • Click arrow icon to expand collapsed content.
+
 • Add triggers anytime from popup menu.
 
 ## Getting Started
@@ -67,9 +69,8 @@ Click ''Settings", import from a file.
 
 ## Send Feedback or Report Issues
 
-Your feedback helps us improve Haven. 
+Your [feedback](https://forms.gle/M9RTZsrM5UccmDWx7) helps us improve Haven. 
 
-https://forms.gle/M9RTZsrM5UccmDWx7
 
 ## Keywords: 
 
