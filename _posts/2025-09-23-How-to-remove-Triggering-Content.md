@@ -1,7 +1,9 @@
+
 layout: post
 title: "How to Block Triggering Content Online for Safer Browsing"
 description: "Learn how to filter PTSD triggers, phobia keywords, and unwanted content using Haven."
-date: 2025-09-23 hh:mm:ss -0000
+date: 2025-09-23 10:35:00 -0000
+
 
 # How to Remove Triggering Content Online for Safer Browsing
 
